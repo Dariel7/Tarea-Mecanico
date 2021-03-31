@@ -1,0 +1,11 @@
+C:\Users\jdari\source\repos\Mecanico\bin\Debug\Mecanico.exe.config
+C:\Users\jdari\source\repos\Mecanico\bin\Debug\Mecanico.exe
+C:\Users\jdari\source\repos\Mecanico\bin\Debug\Mecanico.pdb
+C:\Users\jdari\source\repos\Mecanico\bin\Debug\Mecanico.xml
+C:\Users\jdari\source\repos\Mecanico\obj\Debug\Mecanico.vbprojAssemblyReference.cache
+C:\Users\jdari\source\repos\Mecanico\obj\Debug\Mecanico.Form1.resources
+C:\Users\jdari\source\repos\Mecanico\obj\Debug\Mecanico.Resources.resources
+C:\Users\jdari\source\repos\Mecanico\obj\Debug\Mecanico.vbproj.GenerateResource.cache
+C:\Users\jdari\source\repos\Mecanico\obj\Debug\Mecanico.exe
+C:\Users\jdari\source\repos\Mecanico\obj\Debug\Mecanico.xml
+C:\Users\jdari\source\repos\Mecanico\obj\Debug\Mecanico.pdb
